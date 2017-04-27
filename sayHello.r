@@ -1,5 +1,5 @@
 sayHello <- function(name) {
-  print(paste("Hello", name))
+  print(paste("Hello Hello", name))
 }
 
 sayHello("Kenniz")
